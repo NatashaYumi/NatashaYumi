@@ -14,7 +14,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natashayumi&show_icons=true&locale=en&layout=compact" alt="natashayumi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natashayumi&show_icons=true&locale=en" alt="natashayumi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natashayumi&show_icons=true&locale=en&count_private=true" alt="natashayumi" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
